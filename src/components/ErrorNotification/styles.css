@@ -1,0 +1,8 @@
+.error-notification {
+  width: 100%;
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+  font-size: 80%;
+  color: #dc3545;
+  text-align: left;
+}
